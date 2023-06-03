@@ -14,5 +14,5 @@ userName = userName.toLowerCase();
 console.log(userName);
 
 
-phoneNumber = phoneNumber.replaceAll("-", "a");
+phoneNumber = phoneNumber.replaceAll("-", "/");
 console.log(phoneNumber);
