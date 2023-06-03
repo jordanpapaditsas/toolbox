@@ -1,0 +1,12 @@
+#countLabel {
+  display: block;
+  text-align: center;
+  font-size: 50px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
