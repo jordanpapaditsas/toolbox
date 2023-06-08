@@ -15,7 +15,8 @@ let user = {
     }
   ]
 }
-user.phone = "210962121356";
+user.phone = "210962";
+user.class = "Pilot";
 
 
 
