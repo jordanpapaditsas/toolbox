@@ -5,3 +5,13 @@ for (let i = 0; i <= n; i++) {
     console.log("* I *");
   }
 }
+
+let pyramid = {
+  name: [
+    {
+      pyramid1: "Giza",
+      pyramid2: "Menkaure",
+      pyramid3: "Bent",
+    }
+  ]
+}
