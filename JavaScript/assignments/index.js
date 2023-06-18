@@ -1,4 +1,4 @@
-function add7(number) {      // Add function, returns result of '+'; 
+function add7(number) {      // Addition function, returns result of '+'; 
   return number + 7;
 }
 
